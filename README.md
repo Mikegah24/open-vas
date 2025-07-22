@@ -13,3 +13,6 @@ Tool: OpenVAS (Greenbone Vulnerability Management)
 - First update system bofore install by running
 - `sudo apt update`
 - Then, sudo apt install -y openvas
+
+
+........THIS LAB IS IN PROGRESS....................
