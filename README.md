@@ -2,7 +2,9 @@
 
 
 # OpenVAS
+
 In this lab, we use OpenVAS on Kali Linux to scan a vulnerable machine (Metasploitable 2) in a NAT network. The goal is to find security weaknesses and review the results using the OpenVAS web interface.
+--------------------------------------------
 
 🧪 Lab Setup
 
@@ -14,6 +16,7 @@ Network Mode: NAT (Both VMs are on the same NAT network)
 
 Tool: OpenVAS (Greenbone Vulnerability Management)
 
+### Step 1
 - First update system bofore install by running
 - `sudo apt update`
 - Then, sudo apt install -y openvas
